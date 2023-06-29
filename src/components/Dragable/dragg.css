@@ -1,0 +1,12 @@
+.contain{
+    height: 600px;
+    position: relative;
+}
+
+.ball{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    cursor:pointer
+}
